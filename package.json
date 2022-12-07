@@ -35,7 +35,7 @@
     "license": "MIT",
     "devDependencies": {
         "chai": "4.0.2",
-        "express": "4.16.3",
+        "express": "4.18.2",
         "mocha": "9.2.2",
         "request": "2.88.0"
     },
